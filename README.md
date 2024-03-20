@@ -1,2 +1,2 @@
 # Web-Design
-For practicing Web Designing
+For practicing and learning Web Designing
