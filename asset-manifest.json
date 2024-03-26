@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/replica-site/static/css/main.770cca90.css",
-    "main.js": "/replica-site/static/js/main.24910522.js",
+    "main.js": "/replica-site/static/js/main.ff6ec70a.js",
     "static/js/453.b452b268.chunk.js": "/replica-site/static/js/453.b452b268.chunk.js",
     "static/media/bootstrap-icons.woff?": "/replica-site/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/replica-site/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
@@ -16,11 +16,11 @@
     "static/media/camera-reels.svg": "/replica-site/static/media/camera-reels.7d9bb0d3858a210e4ba4.svg",
     "static/media/box.svg": "/replica-site/static/media/box.dccbe2d3e45dcaf44956.svg",
     "main.770cca90.css.map": "/replica-site/static/css/main.770cca90.css.map",
-    "main.24910522.js.map": "/replica-site/static/js/main.24910522.js.map",
+    "main.ff6ec70a.js.map": "/replica-site/static/js/main.ff6ec70a.js.map",
     "453.b452b268.chunk.js.map": "/replica-site/static/js/453.b452b268.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.770cca90.css",
-    "static/js/main.24910522.js"
+    "static/js/main.ff6ec70a.js"
   ]
 }
