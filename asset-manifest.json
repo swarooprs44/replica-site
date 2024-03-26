@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/replica-site/static/css/main.5a568b0d.css",
+    "main.css": "/replica-site/static/css/main.994285fd.css",
     "main.js": "/replica-site/static/js/main.00014af4.js",
     "static/js/453.b452b268.chunk.js": "/replica-site/static/js/453.b452b268.chunk.js",
     "static/media/CardBackground2.jpg": "/replica-site/static/media/CardBackground2.bb9c3c13dcededfdbf81.jpg",
@@ -16,12 +16,12 @@
     "static/media/body-text.svg": "/replica-site/static/media/body-text.06c9ae9849d601286187.svg",
     "static/media/camera-reels.svg": "/replica-site/static/media/camera-reels.7d9bb0d3858a210e4ba4.svg",
     "static/media/box.svg": "/replica-site/static/media/box.dccbe2d3e45dcaf44956.svg",
-    "main.5a568b0d.css.map": "/replica-site/static/css/main.5a568b0d.css.map",
+    "main.994285fd.css.map": "/replica-site/static/css/main.994285fd.css.map",
     "main.00014af4.js.map": "/replica-site/static/js/main.00014af4.js.map",
     "453.b452b268.chunk.js.map": "/replica-site/static/js/453.b452b268.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a568b0d.css",
+    "static/css/main.994285fd.css",
     "static/js/main.00014af4.js"
   ]
 }
